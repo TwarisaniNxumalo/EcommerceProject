@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GitHubEcommerce")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89d95acdeeab2fb12a14c0cd682e682a19d128f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("GitHubEcommerce")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GitHubEcommerce")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
