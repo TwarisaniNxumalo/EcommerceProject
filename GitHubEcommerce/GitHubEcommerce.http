@@ -1,0 +1,6 @@
+@GitHubEcommerce_HostAddress = http://localhost:5125
+
+GET {{GitHubEcommerce_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
